@@ -16,7 +16,7 @@
       <description>
         
           
-            问题与解决 之前创建过用hexo搭建的博客，用Github Desktop上传的时候仓库名写&amp;lt;username.github.io&amp;gt;不给过，就新建了一个仓库，访问页面的网址即&amp;lt;username.github.io/仓库名&amp;gt; 一个github账号实现多个静态网站，可以创建多个仓库，在仓库中放入index.html文件，setting里设置github page，可以通过&amp;lt;username.github.io/仓库名&amp;gt;网址访问 本地静态页面与使用public推送到github的页面不一样 尝试改了hugo.toml里的baseURL，无作用 fastgithub加速器无法打开界面 
+            问题与解决 之前创建过用hexo搭建的博客，用Github Desktop上传的时候仓库名写&amp;lt;username.github.io&amp;gt;不给过，就新建了一个仓库，访问页面的网址即&amp;lt;username.github.io/仓库名&amp;gt; 一个github账号实现多个静态网站，可以创建多个仓库，在仓库中放入index.html文件，setting里设置github page，可以通过&amp;lt;username.github.io/仓库名&amp;gt;网址访问 本地静态页面与使用public推送到github的页面不一样 尝试改了hugo.toml里的baseURL，改成了博客的网址，结果能正常显示 fastgithub加速器无法打开界面 
           
           
         
